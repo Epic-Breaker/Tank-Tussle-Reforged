@@ -1,0 +1,13 @@
+name = "Tank Tussle Reforged 0.0.2 Server"
+author = "Skndiilous"
+version = "0.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fbc71130faaf0d8916f4a63490ef47592ed7a516493fdcd666a001d29b0889e1"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
