@@ -1,0 +1,13 @@
+name = "Create: Copies & Cats"
+filename = "copiescats-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ccbf26609bb5ee30a1d83c8db0f53897a73b875"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5037469
+project-id = 961317
